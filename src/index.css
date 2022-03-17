@@ -1,0 +1,30 @@
+body {
+  font-family: Montserrat;
+  margin: 0;
+  padding: 0;
+  color: #2c3e50;
+}
+
+.container {
+  margin: 0 auto;
+  max-width: 80%;
+}
+
+.header {
+  padding: 10px 0;
+  border-bottom: 1px solid #efefef;
+}
+
+.header img {
+  max-height: 33px;
+}
+
+.title {
+  font-size: 28px;
+  font-weight: 700;
+}
+
+li {
+  font-size: 18px;
+  padding-bottom: 10px;
+}
